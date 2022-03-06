@@ -70,10 +70,9 @@ The git add command is used to add file contents to the Index (Staging Area)
 (The Bash command ls is used to &#39;list&#39; contents of the current working directory. ls is equivalent to DIR on a Windows console host terminal)
 
 [15]()
-# **git clone**
-[
-# **github.com/tensorflow/tensorflow.git**
-](https://github.com/tensorflow/tensorflow.git) (git clone is primarily used to point to an existing repo and make a clone or copy of that repo at in a new directory, at another location)
+# **git clone** [# **github.com/tensorflow/tensorflow.git**](https://github.com/tensorflow/tensorflow.git) 
+
+(git clone is primarily used to point to an existing repo and make a clone or copy of that repo at in a new directory, at another location)
 
 [16]()
 # **rm -rf .git**
