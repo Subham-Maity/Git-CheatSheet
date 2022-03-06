@@ -72,7 +72,7 @@ The git add command is used to add file contents to the Index (Staging Area)
 [15]()
 # **git clone**
 [
-# **https://github.com/tensorflow/tensorflow.git**
+# **github.com/tensorflow/tensorflow.git**
 ](https://github.com/tensorflow/tensorflow.git) (git clone is primarily used to point to an existing repo and make a clone or copy of that repo at in a new directory, at another location)
 
 [16]()
