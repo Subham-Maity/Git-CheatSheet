@@ -27,7 +27,7 @@ I love Programming. One of the aims I had when I started ```CodeXam``` was to ma
 (Set your username)
 
 [5]()
-#git config --global user.email &quot;MY\_NAME@example.com&quot;
+# git config --global user.email &quot;MY\_NAME@example.com&quot;
 (Set your Email)
 
 [6]()
